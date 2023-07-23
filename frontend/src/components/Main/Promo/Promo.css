@@ -1,0 +1,18 @@
+.main__promo{
+    max-width: 1200px;
+    width: 100%;
+    margin: 17px auto 0;
+    min-height: 400px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+.main__title{
+    display: grid;
+    margin: auto;
+    font-weight: 500;
+    font-size: 47px;
+    max-width: 60%;
+    padding-top: 126px;
+    padding-bottom: 30px;
+}
