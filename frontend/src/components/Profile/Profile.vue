@@ -17,7 +17,7 @@ import Footer from '../Footer/Footer.vue'
 export default {
   data() {
     return {
-      githubUrl: 'https://github.com/VladimirZobachov', // Replace with your GitHub repository URL
+      githubUrl: 'https://github.com/VladimirZobachov/testYandex/tree/main', // Replace with your GitHub repository URL
       screencastUrl: 'https://youtu.be/nyJ3NIdFHYU', // Replace with your video screencast URL
       feedback: ''
     }
