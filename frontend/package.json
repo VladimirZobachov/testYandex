@@ -9,8 +9,6 @@
   },
   "dependencies": {
     "@img-comparison-slider/vue": "^8.0.0",
-    "hexo": "^7.0.0-rc2",
-    "hexo-tag-twentytwenty": "^0.0.4",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
   },
